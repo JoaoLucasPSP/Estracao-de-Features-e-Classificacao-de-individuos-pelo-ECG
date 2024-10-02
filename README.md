@@ -1,6 +1,6 @@
-# Tratamento de ECG e Machine Learning com Pacientes ESTCAN/NOCAN (DIABETES)
+# Tratamento de ECG e Machine Learning com Pacientes ESTCAN/NOCAN
 
-Este repositório contém o projeto de tratamento de sinais de ECG e aplicação de técnicas de aprendizado de máquina para análise de pacientes dos grupos ESTCAN e NOCAN, incluindo aqueles com diabetes. O trabalho foi desenvolvido no contexto da disciplina de Informática Médica na Universidade Federal de Santa Catarina (UFSC).
+Este repositório contém o projeto de tratamento de sinais de ECG e aplicação de técnicas de aprendizado de máquina para análise de pacientes dos grupos ESTCAN e NOCAN. O trabalho foi desenvolvido no contexto da disciplina de Informática Médica na Universidade Federal de Santa Catarina (UFSC).
 
 ## Objetivo
 
@@ -16,7 +16,9 @@ O notebook aborda as seguintes etapas:
 - **Aquisição e tratamento de sinais de ECG**: Importação e filtragem de sinais de ECG, removendo ruídos e preparando os dados para análise.
 - **Extração de características (features)**: Processamento de sinais para extrair informações relevantes, como variabilidade da frequência cardíaca e outras métricas úteis para análise.
 - **Classificação com Machine Learning**: Aplicação de algoritmos de aprendizado de máquina para a classificação de pacientes, utilizando as características extraídas dos sinais de ECG.
-- **Análise de pacientes com diabetes**: Foco em pacientes do grupo ESTCAN/NOCAN, com ênfase nos pacientes diabéticos.
 
 ## Ferramenta utilizada:
 - Google Colaboratory (Colab)
+
+
+# OBS: Ler o as descrições no "papper"(manual) que é o pdf, para saber mais informações relacionadas a isso.
